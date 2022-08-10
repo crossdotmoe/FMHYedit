@@ -827,6 +827,7 @@
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once 
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download tumblr photos/videos 
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities 
+* [tumbex](https://www.tumbex.com/) - Tumblr Search Engine
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher 
 * [FlagHunter](https://gitlab.com/flagtism/flaghunter) - Find Rare Imageboard Flags
 * [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - List of ActivityPub based projects 
@@ -1402,7 +1403,10 @@
 * [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
 * [Bookmark It](https://bookmark-it.happydevelopers.co/) - Bookmark YouTube Videos
 * [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - Youtube Region Restrictions Check
-* [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Shows YouTube File Sizes 
+* [YouTube Qualities Size](htt
+* 
+* 
+* ps://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Shows YouTube File Sizes 
 * [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - Automatically Switch to desired Quality
 * [h264ify](https://github.com/erkserkserks/h264ify) - Use H.264 on YouTube 
 * [YTAPI](https://www.ytapi.com/) - Alt YouTube Player
